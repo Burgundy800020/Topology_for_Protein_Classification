@@ -1,0 +1,111 @@
+{
+	"query_id": "df5b3242-94b8-4b9e-ad1c-14a88dbb9ce4",
+	"result_type": "entry",
+	"total_count": 45,
+	"result_set": [
+		{
+			"identifier": "1ZKB",
+			"score": 0.9980257287502232
+		},
+		{
+			"identifier": "1MPB",
+			"score": 0.9979678140114301
+		},
+		{
+			"identifier": "1MPC",
+			"score": 0.9979678140114301
+		},
+		{
+			"identifier": "1MPD",
+			"score": 0.9973160297633533
+		},
+		{
+			"identifier": "2H25",
+			"score": 0.9965071709134654
+		},
+		{
+			"identifier": "2KLF",
+			"score": 0.9964824562971508
+		},
+		{
+			"identifier": "2D21",
+			"score": 0.9960539614202983
+		},
+		{
+			"identifier": "1ZIU",
+			"score": 0.9960419982476734
+		},
+		{
+			"identifier": "1ZJL",
+			"score": 0.9960419982476734
+		},
+		{
+			"identifier": "1ZMG",
+			"score": 0.9960218973355301
+		},
+		{
+			"identifier": "1FQB",
+			"score": 0.9945605818887164
+		},
+		{
+			"identifier": "1FQA",
+			"score": 0.9945209596755068
+		},
+		{
+			"identifier": "1FQC",
+			"score": 0.9945209596755068
+		},
+		{
+			"identifier": "1FQD",
+			"score": 0.9945209596755068
+		},
+		{
+			"identifier": "2N44",
+			"score": 0.9943780739528554
+		},
+		{
+			"identifier": "2N45",
+			"score": 0.9943780739528554
+		},
+		{
+			"identifier": "2MV0",
+			"score": 0.9943777493706525
+		},
+		{
+			"identifier": "1LLS",
+			"score": 0.9941037324379872
+		},
+		{
+			"identifier": "1DMB",
+			"score": 0.993219199565913
+		},
+		{
+			"identifier": "1OMP",
+			"score": 0.9931991913915421
+		},
+		{
+			"identifier": "1JW4",
+			"score": 0.9931774675683838
+		},
+		{
+			"identifier": "1ANF",
+			"score": 0.9928240671026408
+		},
+		{
+			"identifier": "1EZO",
+			"score": 0.9927807006018751
+		},
+		{
+			"identifier": "1JW5",
+			"score": 0.9927571336154926
+		},
+		{
+			"identifier": "3MBP",
+			"score": 0.9908896730949476
+		},
+		{
+			"identifier": "4MBP",
+			"score": 0.9908893948816307
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+    "result_set": [
+        {
+			"identifier": "1EZP",
+			"score": 0.9885979604506323
+		},
+		{
+			"identifier": "1U17",
+			"score": 0.6959246710550644
+		},
+		{
+			"identifier": "1XHA",
+			"score": 0.6951740631183942
+		},
+		{
+			"identifier": "1SMH",
+			"score": 0.6951739495146232
+		},
+		{
+			"identifier": "4FBT",
+			"score": 0.6951502828351356
+		},
+		{
+			"identifier": "4DFX",
+			"score": 0.694886181888772
+		},
+		{
+			"identifier": "4DFZ",
+			"score": 0.694886158704329
+		},
+		{
+			"identifier": "4DG2",
+			"score": 0.6948861308829973
+		},
+		{
+			"identifier": "2CHR",
+			"score": 0.6942822039623093
+		},
+		{
+			"identifier": "1CA1",
+			"score": 0.6941550326551721
+		},
+		{
+			"identifier": "4YEP",
+			"score": 0.6929709961921638
+		},
+		{
+			"identifier": "2QAA",
+			"score": 0.6828053822962804
+		},
+		{
+			"identifier": "3WYH",
+			"score": 0.6815507837489387
+		},
+		{
+			"identifier": "3MIP",
+			"score": 0.6668074555651021
+		},
+		{
+			"identifier": "3MIS",
+			"score": 0.6668074555651021
+		},
+		{
+			"identifier": "2PSG",
+			"score": 0.6668043601405542
+		},
+		{
+			"identifier": "5K9Y",
+			"score": 0.6667830337914881
+		},
+		{
+			"identifier": "3VZN",
+			"score": 0.6667814920955771
+		},
+		{
+			"identifier": "2DCZ",
+			"score": 0.6667799907011835
+		}
+    ]
+}
