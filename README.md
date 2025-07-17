@@ -110,7 +110,7 @@ prl.protein_landscape(
 - Distance matrices are derived as `dist =1 - |correlation|`
 - Data is organized into open" and "closed" conformation classes
 
-###2ersistent Homology
+### 2. Persistent Homology
 - **Rips Complex**: Constructed from distance matrices with max edge length 10.1stence Computation**: Computes H0 and H1 homology groups
 - **Diagram Generation**: Creates persistence diagrams showing birth/death times
 
@@ -141,24 +141,13 @@ Results are saved in:
 ## Dataset
 
 The project analyzes 21 proteins from the Protein Data Bank:
-- **Closed Conformation**: 7 proteins (1anf, 1fqc, 1fqd, 1mpd, 3hpi, 3mbp, 4*Open Conformation**: 7 proteins (1ez9, 1fqa, 1fqb, 1jw4, 1jw5, 1lls, 1p)
+- **Closed Conformation**: 7 proteins (1anf, 1fqc, 1fqd, 1mpd, 3hpi, 3mbp)
+- **Open Conformation**: 7 proteins (1ez9, 1fqa, 1fqb, 1jw4, 1jw5, 1lls)
 - **Test Set**: 7 additional proteins for validation
 
-## Contributing
-
-To contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is for research purposes. Please cite appropriately if using this code in your research.
 
 ## References
 
-- Edelsbrunner, H., & Harer, J. (2010utational topology: an introduction.
-- Bubenik, P. (2015stical topological data analysis using persistence landscapes.
+- Kaczynski, T. Computational Homology
+- Bubenik, P. (2015) Statistical Topological Data Analysis using Persistence Landscapes
 - Protein Data Bank: https://www.rcsb.org/
