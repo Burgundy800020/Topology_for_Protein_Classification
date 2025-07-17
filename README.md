@@ -147,7 +147,7 @@ The project analyzes 21 proteins from the Protein Data Bank:
 
 
 ## References
-
+If you use this implementation, cite the original book and paper:
 - Kaczynski, T. Computational Homology
 - Bubenik, P. (2015) Statistical Topological Data Analysis using Persistence Landscapes
 - Protein Data Bank: https://www.rcsb.org/
