@@ -95,7 +95,7 @@ import api.protein_landscape as prl
 prl.protein_landscape(
     dir="corrRemake",           # Input directory
     n=13,                       # Number of proteins
-    target_directory=landscapeRemake",  # Output directory
+    target_directory="landscapeRemake",  # Output directory
     k0=370,                     # Number of landscapes for H0
     k1=73,                      # Number of landscapes for H1
     resolution=50       # Landscape resolution
@@ -111,13 +111,14 @@ prl.protein_landscape(
 - Data is organized into open" and "closed" conformation classes
 
 ### 2. Persistent Homology
-- **Rips Complex**: Constructed from distance matrices with max edge length 10.1stence Computation**: Computes H0 and H1 homology groups
+- **Rips Complex**: Constructed from distance matrices with max edge length 10
+- **Homology Computation**: Computes H0 and H1 homology groups
 - **Diagram Generation**: Creates persistence diagrams showing birth/death times
 
 ### 3. Persistence Landscapes
 - Converts persistence diagrams into vector representations
 - Configurable parameters:
-  - `num_landscapes`: Number of landscape functions (370 for H0, 73 for H1
+  - `num_landscapes`: Number of landscape functions (370 for H0, 73 for H1)
   - `resolution`: Number of points per landscape (default: 50)
 - Landscape values are averaged to create feature vectors
 
@@ -151,3 +152,4 @@ If you use this implementation, cite the original book and paper:
 - Kaczynski, T. Computational Homology
 - Bubenik, P. (2015) Statistical Topological Data Analysis using Persistence Landscapes
 - Protein Data Bank: https://www.rcsb.org/
+- The GUDHI Project: https://gudhi.inria.fr/
