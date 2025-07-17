@@ -10,6 +10,8 @@ Topological Data Analysis provides powerful tools for analyzing high-dimensional
 - **Persistence Landscapes**: Converting persistence diagrams into vector representations suitable for machine learning
 - **Statistical Analysis**: Using permutation tests to assess the significance of observed differences between protein classes
 
+![Alt text](dgms/closed/corr_2.png)
+
 ## Project Structure
 
 ```
